@@ -1,5 +1,5 @@
 Feel the Music - JavaScript Music Player
-Feel the Music is a modern and stylish music player web application built with JavaScript, HTML, and CSS. This project demonstrates how to create an interactive and user-friendly music player with basic functionalities such as play, pause, next, previous, volume control, and a playlist.
+Feel the Music is a modern and stylish music player web application built with JavaScript, HTML5, and CSS. This project demonstrates how to create an interactive and user-friendly music player with basic functionalities such as play, pause, next, previous, volume control, and a playlist.
 
 **Features**
 Responsive Design: The player adapts to different screen sizes for a seamless experience on both desktop and mobile devices.
